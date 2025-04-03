@@ -1,0 +1,32 @@
+.BinanceDataBase_D3 {
+    width: 100vw;
+    height: 20vh;
+    min-height: 100px;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.BinanceDataBase_D3 .b1, .BinanceDataBase_D3 .b2 {
+    width: 20%;
+    height: 60%;
+    border-radius: 40px;
+}
+
+.BinanceDataBase_D3 .b1 {
+    border: 5px solid rgb(67, 189, 72);
+    background-color: rgb(52, 162, 40);
+}
+
+.BinanceDataBase_D3 .b1:hover {  
+    background-color: rgb(97, 148, 91);
+}
+
+.BinanceDataBase_D3 .b2 {
+    border: 5px solid rgb(188, 79, 79);
+    background-color: rgb(145, 79, 79);
+}
+
+.BinanceDataBase_D3 .b2:hover {   
+    background-color: rgb(133, 88, 88);
+}

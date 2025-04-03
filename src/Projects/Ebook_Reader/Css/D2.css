@@ -1,0 +1,6 @@
+.EbookReaderApp_D2 {
+    width: 100vw;
+    height: 20vh;
+    flex-direction: column;
+    border: 3px solid black;
+}

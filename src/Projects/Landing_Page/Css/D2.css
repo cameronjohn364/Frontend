@@ -1,0 +1,12 @@
+.LandingPage_D2 {
+    width: 100vw;
+    height: 50vh;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 3px solid green;
+}
+
+.LandingPage_D2 .b1, .LandingPage_D2 .b2 {
+    width: 100px;
+    height: 50px;
+}

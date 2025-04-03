@@ -1,0 +1,13 @@
+.EbookReaderApp_D1 {
+    width: 100vw;
+    height: 20vh;
+    min-height: 100px;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border: 3px solid black;
+}
+
+.EbookReaderApp_D1 .p1 {
+    font-size: 100px;
+}

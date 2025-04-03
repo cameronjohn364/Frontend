@@ -1,0 +1,12 @@
+.LandingPage_D1 {
+    width: 100vw;
+    height: 20vh;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border: 3px solid green;
+}
+
+.LandingPage_D1 .p1 {
+    font-size: 5vw;
+}

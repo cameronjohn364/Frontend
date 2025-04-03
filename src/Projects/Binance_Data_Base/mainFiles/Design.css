@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+div {
+    display: flex;
+    box-sizing: border-box;
+}
+
+p {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.BinanceDataBase_Design {
+    width: 100vw;
+    height: 100%;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: rgb(153, 159, 102);
+}
